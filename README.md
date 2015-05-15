@@ -1,4 +1,6 @@
-
+![imPlayr Screenshot iOS app](https://github.com/HarisRafiq/imPlayr-By-Haris-Rafiq/blob/master/4.jpeg)
+![imPlayr Screenshot iOS app](https://github.com/HarisRafiq/imPlayr-By-Haris-Rafiq/blob/master/5.jpeg)
+![imPlayr Screenshot iOS app](https://github.com/HarisRafiq/imPlayr-By-Haris-Rafiq/blob/master/6.jpeg)
 ![imPlayr Screenshot iOS app](https://github.com/HarisRafiq/imPlayr-By-Haris-Rafiq/blob/master/1.jpg)
 ![imPlayr Screenshot iOS app](https://github.com/HarisRafiq/imPlayr-By-Haris-Rafiq/blob/master/2.jpg)
 ![imPlayr Screenshot iOS app](https://github.com/HarisRafiq/imPlayr-By-Haris-Rafiq/blob/master/3.jpg)
