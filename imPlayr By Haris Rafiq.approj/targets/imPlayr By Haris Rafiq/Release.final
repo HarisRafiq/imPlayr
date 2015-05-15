@@ -1,0 +1,2122 @@
+{
+    "assets": [
+        {
+            "asset": "../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist", 
+            "target": "ResourceRules.plist"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/now-playing@2x.png", 
+            "target": "now-playing@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/SpeakerOn.imageset/SpeakerOn@2x.png", 
+            "target": "SpeakerOn@2x.png"
+        }, 
+        {
+            "asset": "audio-controls.png", 
+            "target": "audio-controls.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-Small-50@2x.png", 
+            "target": "Icon-Small-50@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-60.png", 
+            "target": "Icon-60.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/more.png", 
+            "target": "more.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Font-Ubuntu-C.ttf", 
+            "target": "Font-Ubuntu-C.ttf"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Default-Portrait@2x.png", 
+            "target": "Default-Portrait@2x.png"
+        }, 
+        {
+            "asset": "icon-error.png", 
+            "target": "icon-error.png"
+        }, 
+        {
+            "asset": "icon-info.png", 
+            "target": "icon-info.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/store.png", 
+            "target": "store.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/VolumeFill.imageset/Contents.json", 
+            "target": "Contents.json"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ProgressThumb.imageset/Contents.json", 
+            "target": "Contents.json"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ProgressFill.imageset/Contents.json", 
+            "target": "Contents.json"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ProgressTrack.imageset/Contents.json", 
+            "target": "Contents.json"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/VolumeTrack.imageset/Contents.json", 
+            "target": "Contents.json"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/VolumeThumb.imageset/Contents.json", 
+            "target": "Contents.json"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/SpeakerOff.imageset/Contents.json", 
+            "target": "Contents.json"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/SpeakerOn.imageset/Contents.json", 
+            "target": "Contents.json"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "icon-error@2x.png", 
+            "target": "icon-error@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ProgressFill.imageset/Track_Fill@2x.png", 
+            "target": "Track_Fill@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-Small@2x.png", 
+            "target": "Icon-Small@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/en.lproj/InfoPlist.strings", 
+            "target": "en.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/fr.lproj/InfoPlist.strings", 
+            "target": "fr.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/de.lproj/InfoPlist.strings", 
+            "target": "de.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/es.lproj/InfoPlist.strings", 
+            "target": "es.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/it.lproj/InfoPlist.strings", 
+            "target": "it.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ja.lproj/InfoPlist.strings", 
+            "target": "ja.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/zh-Hans.lproj/InfoPlist.strings", 
+            "target": "zh-Hans.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ru.lproj/InfoPlist.strings", 
+            "target": "ru.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/icon_news_list@2x.png", 
+            "target": "icon_news_list@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-60@2x.png", 
+            "target": "Icon-60@2x.png"
+        }, 
+        {
+            "asset": "Shader.fsh", 
+            "target": "Shader.fsh"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/iTunesArtwork.png", 
+            "target": "iTunesArtwork.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ProgressTrack.imageset/Track@2x.png", 
+            "target": "Track@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-76@2x.png", 
+            "target": "Icon-76@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-76.png", 
+            "target": "Icon-76.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Default-Landscape-1024@2x.png", 
+            "target": "Default-Landscape-1024@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/album-cover@2x.png", 
+            "target": "album-cover@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/playlist.png", 
+            "target": "playlist.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/missingArt~ipad@2x.png", 
+            "target": "missingArt~ipad@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-40@2x.png", 
+            "target": "Icon-40@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/emptyQueue.png", 
+            "target": "emptyQueue.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/VolumeTrack.imageset/Slider track.png", 
+            "target": "Slider track.png"
+        }, 
+        {
+            "asset": "Shader.vsh", 
+            "target": "Shader.vsh"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ProgressFill.imageset/Track_Fill.png", 
+            "target": "Track_Fill.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/backButton2.png", 
+            "target": "backButton2.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-72.png", 
+            "target": "Icon-72.png"
+        }, 
+        {
+            "asset": "default-controls.bundle/Root.plist", 
+            "target": "default-controls.bundle/Root.plist"
+        }, 
+        {
+            "asset": "default-controls.bundle/en.lproj/Localizable.strings", 
+            "target": "default-controls.bundle/en.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "default-controls.bundle/es.lproj/Localizable.strings", 
+            "target": "default-controls.bundle/es.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "default-controls.bundle/images/nextButton.png", 
+            "target": "default-controls.bundle/images/nextButton.png"
+        }, 
+        {
+            "asset": "default-controls.bundle/images/nextButton@2x.png", 
+            "target": "default-controls.bundle/images/nextButton@2x.png"
+        }, 
+        {
+            "asset": "default-controls.bundle/images/previousButton.png", 
+            "target": "default-controls.bundle/images/previousButton.png"
+        }, 
+        {
+            "asset": "default-controls.bundle/images/previousButton@2x.png", 
+            "target": "default-controls.bundle/images/previousButton@2x.png"
+        }, 
+        {
+            "asset": "default-controls.bundle/images/stopButton.png", 
+            "target": "default-controls.bundle/images/stopButton.png"
+        }, 
+        {
+            "asset": "default-controls.bundle/images/stopButton@2x.png", 
+            "target": "default-controls.bundle/images/stopButton@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/playlist@2x.png", 
+            "target": "playlist@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-Small-50.png", 
+            "target": "Icon-Small-50.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/missingArt.png", 
+            "target": "missingArt.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/missingArt~ipad.png", 
+            "target": "missingArt~ipad.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon@2x.png", 
+            "target": "Icon@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/download.png", 
+            "target": "download.png"
+        }, 
+        {
+            "asset": "icon-success@2x.png", 
+            "target": "icon-success@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-40.png", 
+            "target": "Icon-40.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/placeholder-91-album@2x.png", 
+            "target": "placeholder-91-album@2x.png"
+        }, 
+        {
+            "asset": "jquery-1.10.1.min.js", 
+            "target": "jquery-1.10.1.min.js"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/more@2x.png", 
+            "target": "more@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/now-playing.png", 
+            "target": "now-playing.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/pplay.png", 
+            "target": "pplay.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/promo.png", 
+            "target": "promo.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/iTunesArtwork@2x.png", 
+            "target": "iTunesArtwork@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/media-play.png", 
+            "target": "media-play.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/placeholder-91-album.png", 
+            "target": "placeholder-91-album.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ProgressTrack.imageset/Track.png", 
+            "target": "Track.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/VolumeThumb.imageset/Thumb.png", 
+            "target": "Thumb.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ProgressThumb.imageset/Thumb.png", 
+            "target": "Thumb.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/SpeakerOff.imageset/SpeakerOff.png", 
+            "target": "SpeakerOff.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/VolumeFill.imageset/Slider fill.png", 
+            "target": "Slider fill.png"
+        }, 
+        {
+            "asset": "About.txt", 
+            "target": "About.txt"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/download_file.png", 
+            "target": "download_file.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Font-BEBAS.ttf", 
+            "target": "Font-BEBAS.ttf"
+        }, 
+        {
+            "asset": "jquery.simpleplaylist.js", 
+            "target": "jquery.simpleplaylist.js"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/VolumeTrack.imageset/Slider track@2x.png", 
+            "target": "Slider track@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/SpeakerOff.imageset/SpeakerOff@2x.png", 
+            "target": "SpeakerOff@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/VolumeFill.imageset/Slider fill@2x.png", 
+            "target": "Slider fill@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Default-Portrait.png", 
+            "target": "Default-Portrait.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ppause.png", 
+            "target": "ppause.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/ProgressThumb.imageset/Thumb@2x.png", 
+            "target": "Thumb@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/VolumeThumb.imageset/Thumb@2x.png", 
+            "target": "Thumb@2x.png"
+        }, 
+        {
+            "asset": "style.css", 
+            "target": "style.css"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/missingArt@2x.png", 
+            "target": "missingArt@2x.png"
+        }, 
+        {
+            "asset": "index.html", 
+            "target": "index.html"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/songs@2x.png", 
+            "target": "songs@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon.png", 
+            "target": "Icon.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Default@1156.png", 
+            "target": "Default@1156.png"
+        }, 
+        {
+            "asset": "script.js", 
+            "target": "script.js"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/broadcast.png", 
+            "target": "broadcast.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/media-pause.png", 
+            "target": "media-pause.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/bbackward.png", 
+            "target": "bbackward.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/SpeakerOn.imageset/SpeakerOn.png", 
+            "target": "SpeakerOn.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Default-Landscape-1024.png", 
+            "target": "Default-Landscape-1024.png"
+        }, 
+        {
+            "asset": "icon-success.png", 
+            "target": "icon-success.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-Small.png", 
+            "target": "Icon-Small.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/broadcast@2x.png", 
+            "target": "broadcast@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/fforward.png", 
+            "target": "fforward.png"
+        }, 
+        {
+            "asset": "README.txt", 
+            "target": "README.txt"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/icon_news_list.png", 
+            "target": "icon_news_list.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/Icon-72@2x.png", 
+            "target": "Icon-72@2x.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/album-cover.png", 
+            "target": "album-cover.png"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/store@2x.png", 
+            "target": "store@2x.png"
+        }, 
+        {
+            "asset": "en.lproj/Localizable.strings", 
+            "target": "en.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "fr.lproj/Localizable.strings", 
+            "target": "fr.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "de.lproj/Localizable.strings", 
+            "target": "de.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "es.lproj/Localizable.strings", 
+            "target": "es.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "it.lproj/Localizable.strings", 
+            "target": "it.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "ja.lproj/Localizable.strings", 
+            "target": "ja.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "zh-Hans.lproj/Localizable.strings", 
+            "target": "zh-Hans.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "ru.lproj/Localizable.strings", 
+            "target": "ru.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "imPlayr By Haris Rafiq/songs.png", 
+            "target": "songs.png"
+        }, 
+        {
+            "asset": "icon-info@2x.png", 
+            "target": "icon-info@2x.png"
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "imPlayr By Haris Rafiq", 
+        "APPLICATION_IDENTIFIER": "com.Haris.AirDab", 
+        "APPLICATION_NAME": "imPlayrByHarisRafiq", 
+        "FEATURES": [
+            "opengles2", 
+            "portrait"
+        ], 
+        "ICU_CONFIG": "normal", 
+        "LONG_VERSION": "3.1", 
+        "SHORT_VERSION": "3.1", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "imPlayr By Haris Rafiq"
+        }
+    }, 
+    "defines": {
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 70000
+    }, 
+    "deps": [
+        "UIKit", 
+        "iAd", 
+        "AdSupport", 
+        "CoreGraphics", 
+        "StoreKit", 
+        "UIKit", 
+        "Foundation"
+    ], 
+    "flags": [
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wempty-body", 
+        "-Wshorten-64-to-32", 
+        "-Wno-deprecated-declarations", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wuninitialized", 
+        "-Wunused-function", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }, 
+        {
+            "flag": "-Wundeclared-selector", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "imPlayr By Haris Rafiq-generated-files.hmap", 
+            "hmap": {}, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "imPlayr By Haris Rafiq-own-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "imPlayr By Haris Rafiq-all-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "imPlayr By Haris Rafiq-project-headers.hmap", 
+            "hmap": {
+                "AllPlaylistsViewController.h": {
+                    "key": "AllPlaylistsViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "AllPlaylistsViewController.h"
+                }, 
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "imPlayr By Haris Rafiq/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "ArtistSectionHeader.h": {
+                    "key": "ArtistSectionHeader.h", 
+                    "prefix": "./", 
+                    "suffix": "ArtistSectionHeader.h"
+                }, 
+                "AudioControlsView.h": {
+                    "key": "AudioControlsView.h", 
+                    "prefix": "./", 
+                    "suffix": "AudioControlsView.h"
+                }, 
+                "AudioDecoder.h": {
+                    "key": "AudioDecoder.h", 
+                    "prefix": "./", 
+                    "suffix": "AudioDecoder.h"
+                }, 
+                "AudioFile.h": {
+                    "key": "AudioFile.h", 
+                    "prefix": "./", 
+                    "suffix": "AudioFile.h"
+                }, 
+                "AudioManager.h": {
+                    "key": "AudioManager.h", 
+                    "prefix": "./", 
+                    "suffix": "AudioManager.h"
+                }, 
+                "AudioPlayer.h": {
+                    "key": "AudioPlayer.h", 
+                    "prefix": "./", 
+                    "suffix": "AudioPlayer.h"
+                }, 
+                "AudioRenderer.h": {
+                    "key": "AudioRenderer.h", 
+                    "prefix": "./", 
+                    "suffix": "AudioRenderer.h"
+                }, 
+                "AudioStreamer.h": {
+                    "key": "AudioStreamer.h", 
+                    "prefix": "./", 
+                    "suffix": "AudioStreamer.h"
+                }, 
+                "BottomView.h": {
+                    "key": "BottomView.h", 
+                    "prefix": "./", 
+                    "suffix": "BottomView.h"
+                }, 
+                "CJPAdController.h": {
+                    "key": "CJPAdController.h", 
+                    "prefix": "./", 
+                    "suffix": "CJPAdController.h"
+                }, 
+                "CircularSlider.h": {
+                    "key": "CircularSlider.h", 
+                    "prefix": "./", 
+                    "suffix": "CircularSlider.h"
+                }, 
+                "ContextFilterLogFormatter.h": {
+                    "key": "ContextFilterLogFormatter.h", 
+                    "prefix": "./", 
+                    "suffix": "ContextFilterLogFormatter.h"
+                }, 
+                "CustomSilderRightView.h": {
+                    "key": "CustomSilderRightView.h", 
+                    "prefix": "./", 
+                    "suffix": "CustomSilderRightView.h"
+                }, 
+                "DCNavTab.h": {
+                    "key": "DCNavTab.h", 
+                    "prefix": "./", 
+                    "suffix": "DCNavTab.h"
+                }, 
+                "DCNavTabView.h": {
+                    "key": "DCNavTabView.h", 
+                    "prefix": "./", 
+                    "suffix": "DCNavTabView.h"
+                }, 
+                "DCSideNavViewController.h": {
+                    "key": "DCSideNavViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "DCSideNavViewController.h"
+                }, 
+                "DDASLLogger.h": {
+                    "key": "DDASLLogger.h", 
+                    "prefix": "./", 
+                    "suffix": "DDASLLogger.h"
+                }, 
+                "DDAbstractDatabaseLogger.h": {
+                    "key": "DDAbstractDatabaseLogger.h", 
+                    "prefix": "./", 
+                    "suffix": "DDAbstractDatabaseLogger.h"
+                }, 
+                "DDData.h": {
+                    "key": "DDData.h", 
+                    "prefix": "./", 
+                    "suffix": "DDData.h"
+                }, 
+                "DDFileLogger.h": {
+                    "key": "DDFileLogger.h", 
+                    "prefix": "./", 
+                    "suffix": "DDFileLogger.h"
+                }, 
+                "DDLog.h": {
+                    "key": "DDLog.h", 
+                    "prefix": "./", 
+                    "suffix": "DDLog.h"
+                }, 
+                "DDNumber.h": {
+                    "key": "DDNumber.h", 
+                    "prefix": "./", 
+                    "suffix": "DDNumber.h"
+                }, 
+                "DDRange.h": {
+                    "key": "DDRange.h", 
+                    "prefix": "./", 
+                    "suffix": "DDRange.h"
+                }, 
+                "DDTTYLogger.h": {
+                    "key": "DDTTYLogger.h", 
+                    "prefix": "./", 
+                    "suffix": "DDTTYLogger.h"
+                }, 
+                "DESlideToConfirmView.h": {
+                    "key": "DESlideToConfirmView.h", 
+                    "prefix": "./", 
+                    "suffix": "DESlideToConfirmView.h"
+                }, 
+                "DFPBannerView.h": {
+                    "key": "DFPBannerView.h", 
+                    "prefix": "./", 
+                    "suffix": "DFPBannerView.h"
+                }, 
+                "DFPExtras.h": {
+                    "key": "DFPExtras.h", 
+                    "prefix": "./", 
+                    "suffix": "DFPExtras.h"
+                }, 
+                "DFPInterstitial.h": {
+                    "key": "DFPInterstitial.h", 
+                    "prefix": "./", 
+                    "suffix": "DFPInterstitial.h"
+                }, 
+                "DFPSwipeableBannerView.h": {
+                    "key": "DFPSwipeableBannerView.h", 
+                    "prefix": "./", 
+                    "suffix": "DFPSwipeableBannerView.h"
+                }, 
+                "DZWebBrowser.h": {
+                    "key": "DZWebBrowser.h", 
+                    "prefix": "./", 
+                    "suffix": "DZWebBrowser.h"
+                }, 
+                "DancingBarsView.h": {
+                    "key": "DancingBarsView.h", 
+                    "prefix": "./", 
+                    "suffix": "DancingBarsView.h"
+                }, 
+                "DispatchQueueLogFormatter.h": {
+                    "key": "DispatchQueueLogFormatter.h", 
+                    "prefix": "./", 
+                    "suffix": "DispatchQueueLogFormatter.h"
+                }, 
+                "Download.h": {
+                    "key": "Download.h", 
+                    "prefix": "./", 
+                    "suffix": "Download.h"
+                }, 
+                "DownloadCell.h": {
+                    "key": "DownloadCell.h", 
+                    "prefix": "./", 
+                    "suffix": "DownloadCell.h"
+                }, 
+                "DownloadManager.h": {
+                    "key": "DownloadManager.h", 
+                    "prefix": "./", 
+                    "suffix": "DownloadManager.h"
+                }, 
+                "DownloadViewController.h": {
+                    "key": "DownloadViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "DownloadViewController.h"
+                }, 
+                "DownloadViewController_iPad.h": {
+                    "key": "DownloadViewController_iPad.h", 
+                    "prefix": "./", 
+                    "suffix": "DownloadViewController_iPad.h"
+                }, 
+                "FileUtilities.h": {
+                    "key": "FileUtilities.h", 
+                    "prefix": "./", 
+                    "suffix": "FileUtilities.h"
+                }, 
+                "GADAdMobExtras.h": {
+                    "key": "GADAdMobExtras.h", 
+                    "prefix": "./", 
+                    "suffix": "GADAdMobExtras.h"
+                }, 
+                "GADAdNetworkExtras.h": {
+                    "key": "GADAdNetworkExtras.h", 
+                    "prefix": "./", 
+                    "suffix": "GADAdNetworkExtras.h"
+                }, 
+                "GADAdSize.h": {
+                    "key": "GADAdSize.h", 
+                    "prefix": "./", 
+                    "suffix": "GADAdSize.h"
+                }, 
+                "GADAdSizeDelegate.h": {
+                    "key": "GADAdSizeDelegate.h", 
+                    "prefix": "./", 
+                    "suffix": "GADAdSizeDelegate.h"
+                }, 
+                "GADAppEventDelegate.h": {
+                    "key": "GADAppEventDelegate.h", 
+                    "prefix": "./", 
+                    "suffix": "GADAppEventDelegate.h"
+                }, 
+                "GADBannerView.h": {
+                    "key": "GADBannerView.h", 
+                    "prefix": "./", 
+                    "suffix": "GADBannerView.h"
+                }, 
+                "GADBannerViewDelegate.h": {
+                    "key": "GADBannerViewDelegate.h", 
+                    "prefix": "./", 
+                    "suffix": "GADBannerViewDelegate.h"
+                }, 
+                "GADCustomEventBanner.h": {
+                    "key": "GADCustomEventBanner.h", 
+                    "prefix": "./", 
+                    "suffix": "GADCustomEventBanner.h"
+                }, 
+                "GADCustomEventBannerDelegate.h": {
+                    "key": "GADCustomEventBannerDelegate.h", 
+                    "prefix": "./", 
+                    "suffix": "GADCustomEventBannerDelegate.h"
+                }, 
+                "GADCustomEventExtras.h": {
+                    "key": "GADCustomEventExtras.h", 
+                    "prefix": "./", 
+                    "suffix": "GADCustomEventExtras.h"
+                }, 
+                "GADCustomEventInterstitial.h": {
+                    "key": "GADCustomEventInterstitial.h", 
+                    "prefix": "./", 
+                    "suffix": "GADCustomEventInterstitial.h"
+                }, 
+                "GADCustomEventInterstitialDelegate.h": {
+                    "key": "GADCustomEventInterstitialDelegate.h", 
+                    "prefix": "./", 
+                    "suffix": "GADCustomEventInterstitialDelegate.h"
+                }, 
+                "GADCustomEventRequest.h": {
+                    "key": "GADCustomEventRequest.h", 
+                    "prefix": "./", 
+                    "suffix": "GADCustomEventRequest.h"
+                }, 
+                "GADInAppPurchase.h": {
+                    "key": "GADInAppPurchase.h", 
+                    "prefix": "./", 
+                    "suffix": "GADInAppPurchase.h"
+                }, 
+                "GADInAppPurchaseDelegate.h": {
+                    "key": "GADInAppPurchaseDelegate.h", 
+                    "prefix": "./", 
+                    "suffix": "GADInAppPurchaseDelegate.h"
+                }, 
+                "GADInterstitial.h": {
+                    "key": "GADInterstitial.h", 
+                    "prefix": "./", 
+                    "suffix": "GADInterstitial.h"
+                }, 
+                "GADInterstitialDelegate.h": {
+                    "key": "GADInterstitialDelegate.h", 
+                    "prefix": "./", 
+                    "suffix": "GADInterstitialDelegate.h"
+                }, 
+                "GADModules.h": {
+                    "key": "GADModules.h", 
+                    "prefix": "./", 
+                    "suffix": "GADModules.h"
+                }, 
+                "GADRequest.h": {
+                    "key": "GADRequest.h", 
+                    "prefix": "./", 
+                    "suffix": "GADRequest.h"
+                }, 
+                "GADRequestError.h": {
+                    "key": "GADRequestError.h", 
+                    "prefix": "./", 
+                    "suffix": "GADRequestError.h"
+                }, 
+                "GADSearchBannerView.h": {
+                    "key": "GADSearchBannerView.h", 
+                    "prefix": "./", 
+                    "suffix": "GADSearchBannerView.h"
+                }, 
+                "GADSearchRequest.h": {
+                    "key": "GADSearchRequest.h", 
+                    "prefix": "./", 
+                    "suffix": "GADSearchRequest.h"
+                }, 
+                "GADSwipeableBannerViewDelegate.h": {
+                    "key": "GADSwipeableBannerViewDelegate.h", 
+                    "prefix": "./", 
+                    "suffix": "GADSwipeableBannerViewDelegate.h"
+                }, 
+                "GBFlatButton.h": {
+                    "key": "GBFlatButton.h", 
+                    "prefix": "./", 
+                    "suffix": "GBFlatButton.h"
+                }, 
+                "GBFlatSelectableButton.h": {
+                    "key": "GBFlatSelectableButton.h", 
+                    "prefix": "./", 
+                    "suffix": "GBFlatSelectableButton.h"
+                }, 
+                "GCDAsyncSocket.h": {
+                    "key": "GCDAsyncSocket.h", 
+                    "prefix": "./", 
+                    "suffix": "GCDAsyncSocket.h"
+                }, 
+                "HTTPAsyncFileResponse.h": {
+                    "key": "HTTPAsyncFileResponse.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPAsyncFileResponse.h"
+                }, 
+                "HTTPAuthenticationRequest.h": {
+                    "key": "HTTPAuthenticationRequest.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPAuthenticationRequest.h"
+                }, 
+                "HTTPConnection.h": {
+                    "key": "HTTPConnection.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPConnection.h"
+                }, 
+                "HTTPDataResponse.h": {
+                    "key": "HTTPDataResponse.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPDataResponse.h"
+                }, 
+                "HTTPDynamicFileResponse.h": {
+                    "key": "HTTPDynamicFileResponse.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPDynamicFileResponse.h"
+                }, 
+                "HTTPFileResponse.h": {
+                    "key": "HTTPFileResponse.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPFileResponse.h"
+                }, 
+                "HTTPLogging.h": {
+                    "key": "HTTPLogging.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPLogging.h"
+                }, 
+                "HTTPMessage.h": {
+                    "key": "HTTPMessage.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPMessage.h"
+                }, 
+                "HTTPRedirectResponse.h": {
+                    "key": "HTTPRedirectResponse.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPRedirectResponse.h"
+                }, 
+                "HTTPResponse.h": {
+                    "key": "HTTPResponse.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPResponse.h"
+                }, 
+                "HTTPServer.h": {
+                    "key": "HTTPServer.h", 
+                    "prefix": "./", 
+                    "suffix": "HTTPServer.h"
+                }, 
+                "HUDView.h": {
+                    "key": "HUDView.h", 
+                    "prefix": "./", 
+                    "suffix": "HUDView.h"
+                }, 
+                "HttpSource.h": {
+                    "key": "HttpSource.h", 
+                    "prefix": "./", 
+                    "suffix": "HttpSource.h"
+                }, 
+                "InAppPurchaseManager.h": {
+                    "key": "InAppPurchaseManager.h", 
+                    "prefix": "./", 
+                    "suffix": "InAppPurchaseManager.h"
+                }, 
+                "LEColorPicker.h": {
+                    "key": "LEColorPicker.h", 
+                    "prefix": "./", 
+                    "suffix": "LEColorPicker.h"
+                }, 
+                "LPCBuffer.h": {
+                    "key": "LPCBuffer.h", 
+                    "prefix": "./", 
+                    "suffix": "LPCBuffer.h"
+                }, 
+                "LibraryViewController.h": {
+                    "key": "LibraryViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "LibraryViewController.h"
+                }, 
+                "LocalAssetLoader.h": {
+                    "key": "LocalAssetLoader.h", 
+                    "prefix": "./", 
+                    "suffix": "LocalAssetLoader.h"
+                }, 
+                "MTZCollectionView.h": {
+                    "key": "MTZCollectionView.h", 
+                    "prefix": "./", 
+                    "suffix": "MTZCollectionView.h"
+                }, 
+                "MTZSlider.h": {
+                    "key": "MTZSlider.h", 
+                    "prefix": "./", 
+                    "suffix": "MTZSlider.h"
+                }, 
+                "MTZWhatsNewFeatureCollectionViewCell.h": {
+                    "key": "MTZWhatsNewFeatureCollectionViewCell.h", 
+                    "prefix": "./", 
+                    "suffix": "MTZWhatsNewFeatureCollectionViewCell.h"
+                }, 
+                "MTZWhatsNewGridViewController.h": {
+                    "key": "MTZWhatsNewGridViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "MTZWhatsNewGridViewController.h"
+                }, 
+                "MTZWhatsNewViewController.h": {
+                    "key": "MTZWhatsNewViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "MTZWhatsNewViewController.h"
+                }, 
+                "MYHTTPConnection.h": {
+                    "key": "MYHTTPConnection.h", 
+                    "prefix": "./", 
+                    "suffix": "MYHTTPConnection.h"
+                }, 
+                "MainViewController.h": {
+                    "key": "MainViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "MainViewController.h"
+                }, 
+                "MiddleViewCell.h": {
+                    "key": "MiddleViewCell.h", 
+                    "prefix": "./", 
+                    "suffix": "MiddleViewCell.h"
+                }, 
+                "MultipartFormDataParser.h": {
+                    "key": "MultipartFormDataParser.h", 
+                    "prefix": "./", 
+                    "suffix": "MultipartFormDataParser.h"
+                }, 
+                "MultipartMessageHeader.h": {
+                    "key": "MultipartMessageHeader.h", 
+                    "prefix": "./", 
+                    "suffix": "MultipartMessageHeader.h"
+                }, 
+                "MultipartMessageHeaderField.h": {
+                    "key": "MultipartMessageHeaderField.h", 
+                    "prefix": "./", 
+                    "suffix": "MultipartMessageHeaderField.h"
+                }, 
+                "NJKWebViewProgress.h": {
+                    "key": "NJKWebViewProgress.h", 
+                    "prefix": "./", 
+                    "suffix": "NJKWebViewProgress.h"
+                }, 
+                "NJKWebViewProgressView.h": {
+                    "key": "NJKWebViewProgressView.h", 
+                    "prefix": "./", 
+                    "suffix": "NJKWebViewProgressView.h"
+                }, 
+                "NSArray+ShuffleUtils.h": {
+                    "key": "NSArray+ShuffleUtils.h", 
+                    "prefix": "./", 
+                    "suffix": "NSArray+ShuffleUtils.h"
+                }, 
+                "NSArray_FilterExtensions.h": {
+                    "key": "NSArray_FilterExtensions.h", 
+                    "prefix": "./", 
+                    "suffix": "NSArray_FilterExtensions.h"
+                }, 
+                "NSData+DOUMappedFile.h": {
+                    "key": "NSData+DOUMappedFile.h", 
+                    "prefix": "./", 
+                    "suffix": "NSData+DOUMappedFile.h"
+                }, 
+                "NSLayoutConstraint+Common.h": {
+                    "key": "NSLayoutConstraint+Common.h", 
+                    "prefix": "./", 
+                    "suffix": "NSLayoutConstraint+Common.h"
+                }, 
+                "NSMutableArray-MoveExtentions.h": {
+                    "key": "NSMutableArray-MoveExtentions.h", 
+                    "prefix": "./", 
+                    "suffix": "NSMutableArray-MoveExtentions.h"
+                }, 
+                "NowPlayingViewController_iPad.h": {
+                    "key": "NowPlayingViewController_iPad.h", 
+                    "prefix": "./", 
+                    "suffix": "NowPlayingViewController_iPad.h"
+                }, 
+                "PlaybackItem.h": {
+                    "key": "PlaybackItem.h", 
+                    "prefix": "./", 
+                    "suffix": "PlaybackItem.h"
+                }, 
+                "Playlist.h": {
+                    "key": "Playlist.h", 
+                    "prefix": "./", 
+                    "suffix": "Playlist.h"
+                }, 
+                "PlaylistManager.h": {
+                    "key": "PlaylistManager.h", 
+                    "prefix": "./", 
+                    "suffix": "PlaylistManager.h"
+                }, 
+                "PlaylistTracksViewController.h": {
+                    "key": "PlaylistTracksViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "PlaylistTracksViewController.h"
+                }, 
+                "PlaylistViewController.h": {
+                    "key": "PlaylistViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "PlaylistViewController.h"
+                }, 
+                "PlaylistViewController_iPad.h": {
+                    "key": "PlaylistViewController_iPad.h", 
+                    "prefix": "./", 
+                    "suffix": "PlaylistViewController_iPad.h"
+                }, 
+                "QueueTableCell.h": {
+                    "key": "QueueTableCell.h", 
+                    "prefix": "./", 
+                    "suffix": "QueueTableCell.h"
+                }, 
+                "RNGridMenu.h": {
+                    "key": "RNGridMenu.h", 
+                    "prefix": "./", 
+                    "suffix": "RNGridMenu.h"
+                }, 
+                "Reachability.h": {
+                    "key": "Reachability.h", 
+                    "prefix": "./", 
+                    "suffix": "Reachability.h"
+                }, 
+                "SAMGradientView.h": {
+                    "key": "SAMGradientView.h", 
+                    "prefix": "./", 
+                    "suffix": "SAMGradientView.h"
+                }, 
+                "SDCachedURLResponse.h": {
+                    "key": "SDCachedURLResponse.h", 
+                    "prefix": "./", 
+                    "suffix": "SDCachedURLResponse.h"
+                }, 
+                "SDURLCache.h": {
+                    "key": "SDURLCache.h", 
+                    "prefix": "./", 
+                    "suffix": "SDURLCache.h"
+                }, 
+                "SevenSwitch.h": {
+                    "key": "SevenSwitch.h", 
+                    "prefix": "./", 
+                    "suffix": "SevenSwitch.h"
+                }, 
+                "Shuffle.h": {
+                    "key": "Shuffle.h", 
+                    "prefix": "./", 
+                    "suffix": "Shuffle.h"
+                }, 
+                "TWMessageBarManager.h": {
+                    "key": "TWMessageBarManager.h", 
+                    "prefix": "./", 
+                    "suffix": "TWMessageBarManager.h"
+                }, 
+                "TopPlayerView.h": {
+                    "key": "TopPlayerView.h", 
+                    "prefix": "./", 
+                    "suffix": "TopPlayerView.h"
+                }, 
+                "TrackExporter.h": {
+                    "key": "TrackExporter.h", 
+                    "prefix": "./", 
+                    "suffix": "TrackExporter.h"
+                }, 
+                "UIColor+HNExtensions.h": {
+                    "key": "UIColor+HNExtensions.h", 
+                    "prefix": "./", 
+                    "suffix": "UIColor+HNExtensions.h"
+                }, 
+                "UIColor+YUVSpace.h": {
+                    "key": "UIColor+YUVSpace.h", 
+                    "prefix": "./", 
+                    "suffix": "UIColor+YUVSpace.h"
+                }, 
+                "UIColor+imPlayr.h": {
+                    "key": "UIColor+imPlayr.h", 
+                    "prefix": "./", 
+                    "suffix": "UIColor+imPlayr.h"
+                }, 
+                "UIImage+StackBlur.h": {
+                    "key": "UIImage+StackBlur.h", 
+                    "prefix": "./", 
+                    "suffix": "UIImage+StackBlur.h"
+                }, 
+                "UIImage+TBTint.h": {
+                    "key": "UIImage+TBTint.h", 
+                    "prefix": "./", 
+                    "suffix": "UIImage+TBTint.h"
+                }, 
+                "UIImage+Thumbnail.h": {
+                    "key": "UIImage+Thumbnail.h", 
+                    "prefix": "./", 
+                    "suffix": "UIImage+Thumbnail.h"
+                }, 
+                "Utitlities.h": {
+                    "key": "Utitlities.h", 
+                    "prefix": "./", 
+                    "suffix": "Utitlities.h"
+                }, 
+                "WebSocket.h": {
+                    "key": "WebSocket.h", 
+                    "prefix": "./", 
+                    "suffix": "WebSocket.h"
+                }, 
+                "dance.h": {
+                    "key": "dance.h", 
+                    "prefix": "./", 
+                    "suffix": "dance.h"
+                }, 
+                "fft.h": {
+                    "key": "fft.h", 
+                    "prefix": "./", 
+                    "suffix": "fft.h"
+                }, 
+                "iPadSongsViewController.h": {
+                    "key": "iPadSongsViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "iPadSongsViewController.h"
+                }, 
+                "imConstants.h": {
+                    "key": "imConstants.h", 
+                    "prefix": "./", 
+                    "suffix": "imConstants.h"
+                }, 
+                "imNowPlayingViewController.h": {
+                    "key": "imNowPlayingViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "imNowPlayingViewController.h"
+                }, 
+                "imPlayr By Haris Rafiq-Prefix.pch": {
+                    "key": "imPlayr By Haris Rafiq-Prefix.pch", 
+                    "prefix": "imPlayr By Haris Rafiq/", 
+                    "suffix": "imPlayr By Haris Rafiq-Prefix.pch"
+                }, 
+                "imPlayr.h": {
+                    "key": "imPlayr.h", 
+                    "prefix": "./", 
+                    "suffix": "imPlayr.h"
+                }, 
+                "imStreamer.h": {
+                    "key": "imStreamer.h", 
+                    "prefix": "./", 
+                    "suffix": "imStreamer.h"
+                }, 
+                "imageManager.h": {
+                    "key": "imageManager.h", 
+                    "prefix": "./", 
+                    "suffix": "imageManager.h"
+                }, 
+                "playrsMemory.h": {
+                    "key": "playrsMemory.h", 
+                    "prefix": "./", 
+                    "suffix": "playrsMemory.h"
+                }, 
+                "playrsTrack.h": {
+                    "key": "playrsTrack.h", 
+                    "prefix": "./", 
+                    "suffix": "playrsTrack.h"
+                }, 
+                "trackImages.h": {
+                    "key": "trackImages.h", 
+                    "prefix": "./", 
+                    "suffix": "trackImages.h"
+                }
+            }, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "/var/folders/37/_xdvxj6d2kz4gfcdf3rxzbzh0000gn/T/tmp6IcSWz/BUILT_PRODUCTS_DIR/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/37/_xdvxj6d2kz4gfcdf3rxzbzh0000gn/T/tmp6IcSWz/DERIVED_FILE_DIR/armv7", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/37/_xdvxj6d2kz4gfcdf3rxzbzh0000gn/T/tmp6IcSWz/DERIVED_FILE_DIR", 
+            "type": "I"
+        }
+    ], 
+    "infoplists": [
+        "./imPlayr By Haris Rafiq/imPlayr By Haris Rafiq-Info.plist"
+    ], 
+    "java_libs": [], 
+    "java_res_dirs": [], 
+    "java_sourcepaths": [], 
+    "java_sources": [], 
+    "libs": [
+        "GoogleAdMobAds"
+    ], 
+    "link_flags": [], 
+    "modules": [], 
+    "pchs": [
+        "./imPlayr By Haris Rafiq/imPlayr By Haris Rafiq-Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "AllPlaylistsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "ArtistSectionHeader.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "AudioControlsView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "AudioDecoder.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "AudioFile.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "AudioManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "AudioPlayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "AudioRenderer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "AudioStreamer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "BottomView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "CJPAdController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "CircularSlider.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "ContextFilterLogFormatter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "CustomSilderRightView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DCNavTab.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DCNavTabView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DCSideNavViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DDASLLogger.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DDAbstractDatabaseLogger.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DDData.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DDFileLogger.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DDLog.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DDNumber.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DDRange.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DDTTYLogger.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DESlideToConfirmView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DZWebBrowser.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DancingBarsView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DispatchQueueLogFormatter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Download.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DownloadCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DownloadManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DownloadViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "DownloadViewController_iPad.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "FileUtilities.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "GBFlatButton.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "GBFlatSelectableButton.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "GCDAsyncSocket.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HTTPAsyncFileResponse.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HTTPAuthenticationRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HTTPConnection.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HTTPDataResponse.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HTTPDynamicFileResponse.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HTTPFileResponse.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HTTPMessage.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HTTPRedirectResponse.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HTTPServer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HUDView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "HttpSource.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "InAppPurchaseManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "LEColorPicker.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "LPCBuffer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "LibraryViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "LocalAssetLoader.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MTZCollectionView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MTZSlider.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MTZWhatsNewFeatureCollectionViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MTZWhatsNewGridViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MTZWhatsNewViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MYHTTPConnection.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MainViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MiddleViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MultipartFormDataParser.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MultipartMessageHeader.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MultipartMessageHeaderField.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "NJKWebViewProgress.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "NJKWebViewProgressView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "NSArray+ShuffleUtils.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "NSArray_FilterExtensions.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "NSData+DOUMappedFile.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "NSLayoutConstraint+Common.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "NSMutableArray-MoveExtentions.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "NowPlayingViewController_iPad.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PlaybackItem.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Playlist.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PlaylistManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PlaylistTracksViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PlaylistViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PlaylistViewController_iPad.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "QueueTableCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "RNGridMenu.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Reachability.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "SAMGradientView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "SDCachedURLResponse.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "SDURLCache.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "SevenSwitch.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Shuffle.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "TWMessageBarManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "TopPlayerView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "TrackExporter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "UIColor+HNExtensions.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "UIColor+YUVSpace.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "UIColor+imPlayr.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "UIImage+StackBlur.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "UIImage+TBTint.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "UIImage+Thumbnail.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Utitlities.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "WebSocket.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dance.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "fft.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "iPadSongsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "imNowPlayingViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "imPlayr By Haris Rafiq/AppDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "imPlayr By Haris Rafiq/main.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "imStreamer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "imageManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "playrsMemory.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "playrsTrack.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "trackImages.m"
+        }
+    ], 
+    "storyboards": [], 
+    "type": "app", 
+    "version": "3", 
+    "xcdatamodels": [], 
+    "xcode_project": "imPlayr By Haris Rafiq.xcodeproj", 
+    "xibs": [
+        {
+            "target": null, 
+            "xib": "iPadSongsViewController.xib"
+        }, 
+        {
+            "target": null, 
+            "xib": "SongsViewController.xib"
+        }, 
+        {
+            "target": null, 
+            "xib": "LibraryViewController.xib"
+        }, 
+        {
+            "target": null, 
+            "xib": "PlaylistViewController.xib"
+        }, 
+        {
+            "target": null, 
+            "xib": "MainViewController.xib"
+        }, 
+        {
+            "target": null, 
+            "xib": "PlaylistTracksViewController.xib"
+        }
+    ]
+}

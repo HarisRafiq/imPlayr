@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  AirDab
+
+  Created by YAZ on 12/17/13.
+  Copyright (c) 2013 AirWalker. All rights reserved.
+*/
+ "QBFeedbackViewControllerTitle" = "Feedback";
+
+
+"HINT"="HINT";
+"HINTLABEL"="Only devices connected to same WiFi or have bluetooth on and running AirDab in the foreground are discoverable";
+"SUCCESFULL"="SUCCESFULL";
+"FAILED"="FAILED";
+"TRY"="TRY";
+"RESTORE"="RESTORE";
+"BUY"="BUY";
+"PURCHASE FAILED"="PURCHASE FAILED";
+"Please Try Again Later"="Please Try Again Later";
+"Transaction Successful"="Transaction Successful";
+"Thank You for purchasing Colors"="Thank You for purchasing Colors";
+"Thank You for purchasing Music Cloud"="Thank You for purchasing Music Cloud";
+"Trial Ended"="Trial Ended";
+"Trial"="You have no more trial left.Please purchase this feature by tapping on BUY button";
+"Status Updated"="Status Updated";
+"Status Update Failed"="Status Update Failed";
+"Pick your feeling or tap here"="Pick your feeling or tap here";
+"Update Status"="Update Status";
+"Because"="Because";
+"Music Is Everything"="Music Is Everything";
+"Unlock Music Cloud"="Unlock Music Cloud";
+"CloudHint"="• Type this address in any web browser\n• Make sure that you are connected to the same Wifi network  \n• Music Cloud will stop working if the app goes to background\n• Once the page opens in your web browser, use 'Browse' button to add more music \n ";
+"CloudHintTitle"="YOUR IP ADDRESS";
+"CloudStoppedAlert"="Music Cloud Stops Working When You Enter Background.";
+"Music Cloud Stopped"="Music Cloud Stopped";
+"QBFeedbackViewControllerTitle" = "Feedback";
+"QBFeedbackTopicListViewControllerTitle" = "Topics";
+
+"QBFeedbackButtonSend" = "Send";
+
+"QBFeedbackTableHeaderTopic" = "Please Fill";
+"QBFeedbackTableHeaderBasicInfo" = "Your Environment";
+
+"QBFeedbackTopicText" = "Topic";
+"QBFeedbackDescriptionPlaceholder" = "Please write for details.";
+
+"QBFeedbackDeviceText"  = "Device";
+"QBFeedbackiOSText"     = "iOS";
+"QBFeedbackAppNameText" = "App Name";
+"QBFeedbackVersionText" = "Version";
+
+"QBFeedbackErrorText" = "Failed to send your feedback. Please try later.";
+
+// Topics
+"QBFeedbackTopicQuestion"  = "Question";
+"QBFeedbackTopicRequest"   = "Request";
+"QBFeedbackTopicBugReport" = "Bug Report";
+"QBFeedbackTopicMedia"     = "Media";
+"QBFeedbackTopicBusiness"  = "Business";
+"QBFeedbackTopicOther"     = "Other";
+
+
+"RemoveAds" ="Remove Ads";
+"PlaySomeMusicHintTitle" ="Play Some Music";
+"PlaySomeMusicHint"="In order to use this feature please play some music first";
+"DisconnectConfirmationTitle"="Stop Streaming";
+"DisconnectConfirmation"="Are you sure you want to stop streaming?";
+"NoMusicFound"="No Music Found";
+"PleaseAddSomeMusic"="No Music Found In iTunes Library.Please Add Some Music To Use This App";
+"AdRemover"="Ad Remover";
+"AdRemoverBody"="Don't Like Ads. Remove them";
+"Restore"="Restore";
+"Buy"="Buy";
+"Cancel"="Cancel";
+"OK"="OK";
+"YES"="YES";
+"NO"="NO";
+"Connected"="Connected";
+"NowPlaying"="Now Playing";
+"TransactionFailedTitle"="Transaction Failed";
+"TransactionFailed"="Your appstore transaction has failed";
+"TransactionSuccessfulTitle"="Transaction Successful";
+"TransactionSuccessful"="Your transaction was successful.You will not see ads anymore";
+
+
